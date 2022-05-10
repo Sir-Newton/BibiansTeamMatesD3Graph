@@ -1,7 +1,8 @@
 html,
 body {
-  padding: 0;
-  margin: 0;
+  padding: 20px;
+  padding-top: 200px;
+  margin: 20px;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
@@ -19,11 +20,23 @@ main {
   align-items: center;
 }
 
+div {
+    display: block;
+}
+
 code {
   background: #fafafa;
   border-radius: 5px;
   padding: 0.75rem;
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
+}
+
+#mainbody {
+    padding: 10px;
+    border: 2px solid gray;
+    box-shadow: -1px 2px 5px grey,  1px -2px 3px;
+    border-radius: 10px;
+    margin-top: 200px;
 }
 
 .container {
@@ -32,4 +45,94 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-top: 250px;
+  padding-top: 150px;
 }
+
+@media only screen and (max-width: 700px)
+.about-container {
+    width: 100%;
+}
+
+@media only screen and (max-width: 1164px)
+.about-container {
+    order: 2;
+}
+
+ @media only screen and (max-width: 1164px)
+.card {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 14%;
+}
+.widecard {
+    padding: 10px;
+    border: 2px solid #fbfbfb;
+    box-shadow: -1px 2px 5px #fefefe,  1px -2px 3px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+  .card {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 14px 20px 20px 12px #0702020d;
+    border-radius: 10px;
+    width: 30%; 
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: rgb(95, 103, 250);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.mediumcard {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 4px 10px 10px 2px #0702020d;
+    width: 30%;
+    border-radius: 10px;
+    padding: 10px;
+    width: 20rem;
+    color: rgb(100, 103, 250);
+    cursor: pointer;
+    text-decoration: none;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.chart-title {
+  color: rgb(128, 0, 128);
+ }
+
+.sky {
+ color: rgb(105, 163, 178);
+}
+.chart-paragraph {
+  color: rgb(128, 0, 128);
+}
+/* @media only screen and (max-width: 700px)
+.about-container p {
+    padding-right: 1rem;
+} */
+/* .about-container p {
+    padding-right: 9rem;
+    line-height: 25px;
+} */
+p {
+    font-size: 14px;
+    color: blue;
+}
+/* user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+} */
