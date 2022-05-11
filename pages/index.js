@@ -19,7 +19,7 @@ return (
     
      
     <p>
-    <h2 align="center" className="sky"> INTERACTIVE VISUALIZATION GROUP ASSESMENT </h2>
+    <h2 align="center" className="sky"> INTERACTIVE VISUALIZATION GROUP PROJECT </h2>
     <h3 align="center" className="sky"> GROUP 4 INTERACTIVE VISUALIZATION ASSESMENT </h3>
     </p>
     <div id="mainbody" class="widecard">  <br/> <br/>
@@ -75,26 +75,39 @@ return (
             <div class="widecard">
             <a className="card" href="https://oyewalesbarchart.netlify.app">
                 <div>
-                    <h4 class="chart-title">Bar Chart</h4>
+                    <h4 class="chart-title">GROUPED STACKED BAR CHART</h4>
                     <p class="chart-paragraph">Name: OYEWALE OREDEIN</p>
                     <p class="chart-paragraph">Student Number: B1011452</p>
                 </div>
             </a>
             <a className="card" href="https://likhitavadapalycircularbarchart.netlify.app/">
                 <div>
-                    <h4 class="chart-title">Circular Bar Chart</h4>
+                    <h4 class="chart-title">TREE MAP</h4>
                     <p class="chart-paragraph">Name: LIKHITA VADAPALLY </p>
                     <p class="chart-paragraph">Student Number: W9543325</p>
                 </div>
             </a>
             <a className="card" href="https://giftwigbuduslinechart.netlify.app/">
                 <div>
-                    <h4 class="chart-title">Line Graph</h4>
+                    <h4 class="chart-title">SUNBURST</h4>
                     <p class="chart-paragraph">Name: GIFT WIGBUDU</p>
                     <p class="chart-paragraph">Student Number: B1153110</p>
                 </div>
             </a>
-    
+    <a className="card" href="https://giftwigbuduslinechart.netlify.app/">
+                <div>
+                    <h4 class="chart-title">SCATTER PLOT</h4>
+                    <p class="chart-paragraph">Name: GIFT WIGBUDU</p>
+                    <p class="chart-paragraph">Student Number: B1153110</p>
+                </div>
+            </a>
+    <a className="card" href="https://giftwigbuduslinechart.netlify.app/">
+                <div>
+                    <h4 class="chart-title">DOUGHNUT</h4>
+                    <p class="chart-paragraph">Name: GIFT WIGBUDU</p>
+                    <p class="chart-paragraph">Student Number: B1153110</p>
+                </div>
+            </a>
         </div>
         <div className="scrum-link">
             <h3 className="sky" align="center"> SCRUM DOCUMENTATION </h3>
