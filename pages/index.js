@@ -21,7 +21,7 @@
             <p>
             <h2 align="center" className="sky"> TEAM TWO INTERACTIVE VISUALIZATION PROJECT </h2>
             </p>
-            <div id="mainbody" class="widecard">  <br/> <br/>
+           
 
                                <p class="mediumcard"> 
                 <h4 className="sky" align="center">THE DATASET</h4>
@@ -29,16 +29,15 @@
                 <a href="https://www.kaggle.com/rhuebner/human-resources-data-set"> Kaggle </a>
                 and it is about human resources and the effects of certain perculiarities for example age retirement and gender, on the individuals performance at work. 
                 
-                The dataset contains 9994 rows of records and 21 columns of attributes with no missing values.
-                </p>
-
-
-                
-                               Find the preprocessed dataset at <a href="https://liveteesac-my.sharepoint.com/:x:/g/personal/w9497107_live_tees_ac_uk/ERi0-KYADy1IodCWiTP5DgcBBc_PDLNU5fWHJBuItJ2I3A?e=ye2Dwg">
-                        Human Resources Dataset
-                                </a> <br/>
-                
-            </div>       
+                It is from a fictitious company  and it contains 36 columns and 312 rows.
+                    <br/> 
+                    Find the preprocessed dataset at <a href="https://liveteesac-my.sharepoint.com/:x:/g/personal/w9497107_live_tees_ac_uk/ERi0-KYADy1IodCWiTP5DgcBBc_PDLNU5fWHJBuItJ2I3A?e=ye2Dwg">
+                    Human Resources Dataset
+                                
+                    </a>
+                    <br/>
+                    </p>
+                     
             <h4 align="center" className="sky"> THE CHARTS </h4>
             <p align="left">   
 
