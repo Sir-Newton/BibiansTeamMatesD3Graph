@@ -27,12 +27,9 @@ import Head from 'next/head'
                                 <h4 align="center">THE DATASET</h4>
                                 The Human Resources dataset was gotten from  
                                 <a href="https://www.kaggle.com/rhuebner/human-resources-data-set"> Kaggle </a>
-                                <br/> 
                                 It is from a fictitious company  and it contains 36 columns and 312 rows.
-                                <br/> 
                                 Find the preprocessed dataset at <a href="https://liveteesac-my.sharepoint.com/:x:/g/personal/w9497107_live_tees_ac_uk/ERi0-KYADy1IodCWiTP5DgcBBc_PDLNU5fWHJBuItJ2I3A?e=ye2Dwg">
-                                    Human Resources Dataset
-                    
+                                Human Resources Dataset                    
                                 </a>
                                 <br/>
                                 </p>
