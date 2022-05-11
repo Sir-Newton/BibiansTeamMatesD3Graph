@@ -33,11 +33,11 @@
                 </p>
 
 
-                <p class="mediumcard">
+                
                                Find the preprocessed dataset at <a href="https://liveteesac-my.sharepoint.com/:x:/g/personal/w9497107_live_tees_ac_uk/ERi0-KYADy1IodCWiTP5DgcBBc_PDLNU5fWHJBuItJ2I3A?e=ye2Dwg">
                         Human Resources Dataset
                                 </a> <br/>
-                </p>
+                
             </div>       
             <h4 align="center" className="sky"> THE CHARTS </h4>
             <p align="left">   
