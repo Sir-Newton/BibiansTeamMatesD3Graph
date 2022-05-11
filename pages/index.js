@@ -34,7 +34,10 @@ import Head from 'next/head'
                                 <br/>
                                 </p>
                     </div>
-                                <h4 align="center" className="sky"> THE CHARTS </h4>
+                    
+                    
+                    
+                                <h4 align="center"> THE CHARTS </h4>
                                 <p align="left">   
                     
                                 <div class="widecard">
