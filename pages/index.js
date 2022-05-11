@@ -87,7 +87,7 @@
                 
             </div>
             <div className="scrum-link">
-                <h3 className="sky" align="center"> SCRUM DOCUMENTATION </h3>
+                <h3 className="sky" align="center"> DOCUMENTATION </h3>
                 <p align="center">To view the entire planning process, click the link below </p>
                 <p align="center">
                     <a href="https://trello.com/b/ZsgOAiGU"> Trello </a>
