@@ -6,7 +6,7 @@ export default function Home() {
 return (
 <div className="container">
     <Head>
-        <title>D3Teams with Links</title>
+        <title>D3 INTERACTIVE VISUALIZATION USING GRAPHS</title>
         <link rel="icon" href="/favicon.ico" />
     </Head>
 
@@ -14,7 +14,7 @@ return (
    <div class="about-container">
     
      <p className="description" >
-    <h2 className="title"  align="center"> INTERACTIVE VISUALIZATION </h2>
+    <h2 className="title"  align="center"> INTERACTIVE VISUALIZATION PROJECT WITH LINKS TO TEAM MEMBERS GRAPHS</h2>
     </p>
     
      
