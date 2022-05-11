@@ -22,18 +22,18 @@ import Head from 'next/head'
                                 <h3 align="center"> TEAM TWO INTERACTIVE VISUALIZATION PROJECT </h3>
                                 </p>
                     
-                     <div class="widecard" align="center">
-                                <p> 
-                                <h4 align="center">THE DATASET</h4>
-                                The Human Resources dataset was gotten from  
-                                <a href="https://www.kaggle.com/rhuebner/human-resources-data-set"> Kaggle </a>
-                                It is from a fictitious company  and it contains 36 columns and 312 rows.
-                                Find the preprocessed dataset at <a href="https://liveteesac-my.sharepoint.com/:x:/g/personal/w9497107_live_tees_ac_uk/ERi0-KYADy1IodCWiTP5DgcBBc_PDLNU5fWHJBuItJ2I3A?e=ye2Dwg">
-                                Human Resources Dataset                    
-                                </a>
-                                <br/>
-                                </p>
-                    </div>
+                                <div class="widecard" align="center">
+                                    <p> 
+                                    <h4 align="center">THE DATASET</h4>
+                                    The Human Resources dataset was gotten from  
+                                    <a href="https://www.kaggle.com/rhuebner/human-resources-data-set"> Kaggle </a>
+                                    It is from a fictitious company  and it contains 36 columns and 312 rows.
+                                    Find the preprocessed dataset at <a href="https://liveteesac-my.sharepoint.com/:x:/g/personal/w9497107_live_tees_ac_uk/ERi0-KYADy1IodCWiTP5DgcBBc_PDLNU5fWHJBuItJ2I3A?e=ye2Dwg">
+                                        Human Resources Dataset                    
+                                    </a>
+                                    <br/>
+                                    </p>
+                                </div>
                     
                     
                     
@@ -47,15 +47,17 @@ import Head from 'next/head'
                                             <h4 class="chart-title">Chart Type: GROUPED STACKED BAR CHART</h4>
                                             <p class="chart-paragraph">Name: IGARANDO EBINIPRE BIBIAN</p>
                                             <p class="chart-paragraph">Student Number: B1230374</p>
+                                            <p class="chart-paragraph"><a href='https://bibiansgroupedstackedbarchart.netlify.app/'><button>Link To Chart</button></a></p>
                     
                                         </div>
                                     </a>
-                                    <a className="card" href="https://nallanissunburst.netlify.app//">
+                                    <a className="card" href="https://nallanissunburst.netlify.app/">
                                         <div>
                                             <h3 class="chart-title">Member 2 </h3>
                                             <h4 class="chart-title">Chart Type: SUNBURST CHART</h4>
                                             <p class="chart-paragraph">Name: NAVEENRAO NALLANI  </p>
                                             <p class="chart-paragraph">Student Number: W9543071</p>
+                                            <p class="chart-paragraph"><a href='https://nallanissunburst.netlify.app/'><button>Link To Chart</button></a></p>
                                         </div>
                                     </a>
                                     <a className="card" href="https://mahithasdonut.netlify.app/">
@@ -64,6 +66,7 @@ import Head from 'next/head'
                                             <h4 class="chart-title">Chart Type: DOUGHNUT CHART</h4>
                                             <p class="chart-paragraph">Name: KODAVATI MAHITHA </p>
                                             <p class="chart-paragraph">Student Number: W9439813</p>
+                                            <p class="chart-paragraph"><a href='https://mahithasdonut.netlify.app/'><button>Link To Chart</button></a></p>
                                         </div>
                                     </a>
                                     <a className="card" href="https://deepikaszoomabletreemap.netlify.app/">
@@ -72,6 +75,7 @@ import Head from 'next/head'
                                             <h4 class="chart-title"> Chart Type: ZOOM-ABLE TREE MAP</h4>
                                             <p class="chart-paragraph">Name: GUVALA DEEPIKA </p>
                                             <p class="chart-paragraph">Student Number: W9497107</p>
+                                            <p class="chart-paragraph"><a href='ttps://deepikaszoomabletreemap.netlify.app/'><button>Link To Chart</button></a></p>
                                         </div>
                                     </a>
                                     <a className="card" href="https://jaswantsscatterplot.netlify.app/">
@@ -80,6 +84,7 @@ import Head from 'next/head'
                                             <h4 class="chart-title"> Chart Type: - SCATTER PLOT SCATTER PLOT</h4>
                                             <p class="chart-paragraph">Name: VEMPATI JASWANT</p>
                                             <p class="chart-paragraph">Student Number: W9565404</p>
+                                            <p class="chart-paragraph"><a href='https://jaswantsscatterplot.netlify.app/'><button>Link To Chart</button></a></p>
                                         </div>
                                     </a>
                     
@@ -88,7 +93,7 @@ import Head from 'next/head'
                                     <h3 className="sky" align="center"> DOCUMENTATION </h3>
                                     <p align="center">To view the entire planning process, click the link below </p>
                                     <p align="center">
-                                        <a href="https://trello.com/b/ZsgOAiGU"> Trello </a>
+                                        <a href="https://trello.com/b/ZsgOAiGU"> <button>Trello</button> </a>
                                     </p>
                                 </div>
                                 <br/><br/><br/>
