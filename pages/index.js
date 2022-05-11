@@ -43,7 +43,7 @@
             <p align="left">   
 
             <div class="widecard">
-                <a className="card" href="https://oyewalesbarchart.netlify.app">
+                <a className="card" href="https://bibiansgroupedstackedbarchart.netlify.app/">
                     <div>
                         <h3 class="chart-title">Member 1 </h3>
                         <h4 class="chart-title">Chart Type: GROUPED STACKED BAR CHART</h4>
@@ -52,7 +52,7 @@
 
                     </div>
                 </a>
-                <a className="card" href="https://likhitavadapalycircularbarchart.netlify.app/">
+                <a className="card" href="https://nallanissunburst.netlify.app//">
                     <div>
                         <h3 class="chart-title">Member 2 </h3>
                         <h4 class="chart-title">Chart Type: SUNBURST CHART</h4>
@@ -60,7 +60,7 @@
                         <p class="chart-paragraph">Student Number: W9543071</p>
                     </div>
                 </a>
-                <a className="card" href="https://giftwigbuduslinechart.netlify.app/">
+                <a className="card" href="https://mahithasdonut.netlify.app/">
                     <div>
                     <h3 class="chart-title">Member 3 </h3>
                         <h4 class="chart-title">Chart Type: DOUGHNUT CHART</h4>
@@ -68,7 +68,7 @@
                         <p class="chart-paragraph">Student Number: W9439813</p>
                     </div>
                 </a>
-                <a className="card" href="https://giftwigbuduslinechart.netlify.app/">
+                <a className="card" href="https://deepikaszoomabletreemap.netlify.app/">
                     <div>
                     <h3 class="chart-title">Member 4 </h3>
                         <h4 class="chart-title"> Chart Type: ZOOM-ABLE TREE MAP</h4>
@@ -76,7 +76,7 @@
                         <p class="chart-paragraph">Student Number: W9497107</p>
                     </div>
                 </a>
-                <a className="card" href="https://giftwigbuduslinechart.netlify.app/">
+                <a className="card" href="https://jaswantsscatterplot.netlify.app/">
                     <div>
                     <h3 class="chart-title">Member 5 </h3>
                         <h4 class="chart-title"> Chart Type: - SCATTER PLOT SCATTER PLOT</h4>
@@ -90,7 +90,7 @@
                 <h3 className="sky" align="center"> SCRUM DOCUMENTATION </h3>
                 <p align="center">To view the entire planning process, click the link below </p>
                 <p align="center">
-                    <a href="https://docs.google.com/spreadsheets/d/1owUIFHjrN1pRiAGGPRhX84ZkpYWh56y_/edit#gid=1392942190">Scrum </a>
+                    <a href="https://trello.com/b/ZsgOAiGU"> Trello </a>
                 </p>
             </div>
             <br/><br/><br/>
