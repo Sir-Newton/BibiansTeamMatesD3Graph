@@ -19,12 +19,12 @@ import Head from 'next/head'
                     
                     
                                 <p>
-                                <h2 align="center" className="sky"> TEAM TWO INTERACTIVE VISUALIZATION PROJECT </h2>
+                                <h3 align="center"> TEAM TWO INTERACTIVE VISUALIZATION PROJECT </h3>
                                 </p>
                     
                      <div class="widecard" align="center">
                                 <p> 
-                                <h4 className="sky" align="center">THE DATASET</h4>
+                                <h4 align="center">THE DATASET</h4>
                                 The Human Resources dataset was gotten from  
                                 <a href="https://www.kaggle.com/rhuebner/human-resources-data-set"> Kaggle </a>
                                 <br/> 
