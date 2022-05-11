@@ -84,8 +84,8 @@ code {
     width: 20%; 
     margin-top: 4rem;
     margin-bottom: 4rem;
-    padding-left: 4rem;
-    padding-right: 4rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     color: rgb(95, 103, 250);
     cursor: pointer;
     text-decoration: none;
