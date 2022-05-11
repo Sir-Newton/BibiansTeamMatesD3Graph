@@ -23,7 +23,7 @@ import Head from 'next/head'
                                 </p>
                     
                      <div class="mediumcard" align="center">
-                                <p class="mediumcard"> 
+                                <p> 
                                 <h4 className="sky" align="center">THE DATASET</h4>
                                 The Human Resources dataset was gotten from  
                                 <a href="https://www.kaggle.com/rhuebner/human-resources-data-set"> Kaggle </a>
